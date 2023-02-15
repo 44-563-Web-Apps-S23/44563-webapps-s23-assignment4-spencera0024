@@ -8,7 +8,7 @@
     font-family: Arial;
     font-size: 14;
     color: black;
-    background: lightgreen;
+    background: lightblue;
 }
 
 .direction:hover {
@@ -17,9 +17,5 @@
 }
 
 .mrsx {
-    color: blue;
+    color: green;
 }
-
-/* .name {
-
-} */
