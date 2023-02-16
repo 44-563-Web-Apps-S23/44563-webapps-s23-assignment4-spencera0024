@@ -20,6 +20,11 @@
     color: green;
 }
 
+.mrsx:hover {
+    text-shadow: 3px 3px 5px yellow;
+    border: solid 3px green;
+}
+
 table {
     border: solid 3px green;
     text-align: center;
